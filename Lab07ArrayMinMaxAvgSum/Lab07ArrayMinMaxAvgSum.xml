@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Lab07ArrayMinMaxAvgSum</name>
+    </assembly>
+    <members>
+        <member name="M:Lab07AssignArrays.Program.Min(System.Int32[])">
+            <summary>
+            Return the minimum element from an array
+            </summary>
+            <param name="array">array</param>
+            <returns>minimum</returns>
+        </member>
+        <member name="M:Lab07AssignArrays.Program.Max(System.Int32[])">
+            <summary>
+            Return the minimum element from an array
+            </summary>
+            <param name="array">array</param>
+            <returns>minimum</returns>
+        </member>
+    </members>
+</doc>

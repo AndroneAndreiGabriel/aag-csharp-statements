@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>D:\FastTrackIT\GitHub\aag-csharp-statements\Lab07ArrayMinMaxAvgSum\Lab07ArrayMinMaxAvgSum.xml</DocumentationFile>
+  </PropertyGroup>
+
+</Project>
